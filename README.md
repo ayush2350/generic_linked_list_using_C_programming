@@ -1,1 +1,1 @@
-# generic_linked_list_using_C_programming
+# Generic Linked List Implementation using C
