@@ -15,6 +15,6 @@ A generic list iterator is also provide which work as a pointer. Iterator can be
 
 Project has 3 modules
 
-Driver program, written in main.c
+<li> Driver program, written in main.c </li>
 Generic List, written in glist.c and glist.h
 Generic List Iterator, written in giter.c and giter.h
